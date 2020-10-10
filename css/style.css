@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* Smartphones */
+/* Tablet */
+/* Normal */
+/* Widescreen */
+/* Landscape */
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  background: #CB5688;
+}
+
+.btn-event {
+  background: #cb5688;
+  color: #fff;
+}
+
+.text-event {
+  color: #cb5688;
+}
+
+.btn-event2 {
+  background: #5ead82;
+  color: #fff;
+}
+
+#showcase h1 {
+  color: #cb5688;
+}
+#booking .card-header {
+  background: #5ead82;
+  color: #fff;
+}
+
+#about ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=style.css.map */
